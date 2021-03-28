@@ -23,7 +23,7 @@
     "icon": "brackets-logo.png",
     "extensionPack": [ 
         "ms-vscode.brackets-keybindings",
-        "ritwickdey.LiveServer",
+        "yandeu.five-server",
         "Zignd.html-css-class-completion",
         "pranaygp.vscode-css-peek"
     ]
